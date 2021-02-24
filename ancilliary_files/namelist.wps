@@ -34,8 +34,8 @@
 /
 
 &metgrid
- constants_name = '/g/data/w97/azh561/WRF/wps-barra/BARRA_INV:0000-00-00_00'
- fg_name = '/g/data/w97/azh561/WRF/wps-barra/BARRA_SFC', '/g/data/w97/azh561/WRF/wps-barra/BARRA_MDL'
+ constants_name = '<path to data>/BARRA_INV:0000-00-00_00'
+ fg_name = '<path to data>/BARRA_SFC', '<path to data>/BARRA_MDL'
  io_form_metgrid = 2,
  opt_metgrid_tbl_path = '.'
 /
